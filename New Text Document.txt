@@ -1,0 +1,12 @@
+Skab kontoer
+Max 1 budget per konto (konto HAR 1 budget)
+Skab budget + månedlige udgifter, overførsler
+Ny måned: Tilsidesæt alle expenses
+Ny måned: Overfør alle transfers
+Anvend beløb fra et tilsidesat beløb
+Opdater konto beløb (manuelt ud fra netbank)
+
+Budget
+- Nemmere at tilføje månedens værdier
+- Netbank har en "Gem kontobevægelser som excel fil" der kan udnyttes
+- Analyser og træk selv fra ud fra rækker fra netbank (genkendelse af nogle - andre spørger den om - lærer evt. gennem dette)
